@@ -1,1 +1,6 @@
-# CodSoft
+# CodSoft - Java Development internship
+
+## Overview
+TASK 1 - NUMBER GAME
+TASK 2 - STUDENT GRADE CALCULATOR
+TASK 4 - STUDENT COURSE REGISTRATION SYSTEM
